@@ -18,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Erogz&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+![Erogz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erogz&show_icons=true&theme=dark)
