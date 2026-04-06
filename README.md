@@ -3,7 +3,6 @@
 🚗 Creator of **Drivarc** — Vehicle management app (Flutter & Firebase).  
 🧠 **INTX Mindset:** Analytical, Systems-oriented, Evidence-based.  
 ⚡ **Values:** Efficiency, Autonomy, Logical Consistency.  
-🎓 **Background:** Automotive Technology ➔ Computer Programming.
 
 ---
 
@@ -58,8 +57,8 @@ Modern Flutter app for fuel tracking, maintenance logs, and expense analytics. O
 ---
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADRESIN])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oguzeren.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erogz)
 
 ---
