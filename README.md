@@ -1,4 +1,5 @@
-# 💫 About Me
+# **💫 About Me**
 🧰 **Building tools for clarity.**  
-Under Development***
-[drivarc/landing](https://github.com/drivarc/landing)
+**Under Development***
+
+**[drivarc.com](https://github.com/drivarc/landing)**
