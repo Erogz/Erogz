@@ -24,10 +24,13 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Option (Add pagespeed token to secrets if you have one)
+          # token_pagespeed: ${{ secrets.PAGESPEED_TOKEN }}
+
           # Options
           user: Erogz
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           config_octicon: yes
           config_timezone: Europe/Bursa
           config_twemoji: yes
@@ -44,9 +47,10 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: drivarc.com
+          plugin_pagespeed_url: https://drivarc.com
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_steam: yes
@@ -55,4 +59,4 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: STEAM_0:1:455860232
+          plugin_steam_user: "76561198871986193"
