@@ -1,6 +1,6 @@
 <!-- Başlık ve Ziyaretçi Sayacı -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Erogz&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EROGZ&fontSize=100" />
 </p>
 
 ### 🧑‍💻 Hakkımda
